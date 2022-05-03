@@ -19,5 +19,6 @@ Run `yarn test` to run the tests.
 1. CORS policy might leave users exposed.
 
 ## How long it took to build?
-API development: 1 hour 37min
-Web app development: 2 hours
+API development: **1 hour 37min**
+
+Web app development: **2 hours**
